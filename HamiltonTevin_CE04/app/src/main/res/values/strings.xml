@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HamiltonTevinCE04</string>
+    <string name="close">Close</string>
+    <string name="todo">TODO</string>
+    <string name="listView">List View</string>
+    <string name="gridView">Gird View</string>
+    <string name="array_adapter">Array Adapter</string>
+    <string name="sample_Adapter">Sample Adapter</string>
+    <string name="base_Adapter">Base Adapter</string>
+</resources>
